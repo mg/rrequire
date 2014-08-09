@@ -6,8 +6,17 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mg/rrequire.git"
+  },
+  "keywords": [
+    "require",
+    "commonjs"
+  ],
   "author": "Magnús Örn Gylfason",
   "license": "MIT",
-  "dependencies": {
+  "bugs": {
+    "url": "https://github.com/mg/rrequire/issues"
   }
 }
