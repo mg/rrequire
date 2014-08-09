@@ -1,4 +1,4 @@
-var rrequire= require('../index');
+var rrequire= require('rrequire');
 rrequire.setRoot(__dirname);
 
 var modb= rrequire('/mod_b/index');
