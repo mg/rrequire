@@ -1,4 +1,7 @@
 #rrequire
+
+## Attention: There is no reason to use is. Use NODE_PATH and/or Webpack's resolve config to do this
+
 A rooted require for nodejs to escape the relative paths. Allows you to go from
 
 	var obj= require('../../../module/file');
