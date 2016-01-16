@@ -1,4 +1,5 @@
 #rrequire
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 
 ## Attention: There is no reason to use is. Use NODE_PATH and/or Webpack's resolve config to do this
 
